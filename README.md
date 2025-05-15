@@ -23,7 +23,7 @@ Apasionado por la tecnología, la programación limpia y los proyectos bien estr
 ---
 
 ### **Actualmente estoy trabajando en:**
-- Formularios dinámicos y profesionales en Angular 18
+- Formularios dinámicos y profesionales en Angular
 - Estructuras con SSR y Standalone Components
 - Mejora de interfaces limpias y funcionales para distintos tipos de proyecto
 
